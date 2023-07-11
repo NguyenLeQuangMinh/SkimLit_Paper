@@ -36,6 +36,9 @@ We training a bunch of different model
 
 ### Result
 The best model performance is *tribrid_pos_char_token_embed* which get 83.20% acc,	0.830770 precision,	0.832020 recall,	0.831113 f1 score.
+
+![](assets/result.png)
+
 ### Inference
 The following table shows the inference from the model:
 
